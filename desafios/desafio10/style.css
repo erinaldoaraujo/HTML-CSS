@@ -43,7 +43,6 @@ main p {
 
 header {
     background-image: linear-gradient(to bottom, var(--cor4), var(--cor5));
-    min-height: 150px;
     text-align: center;
     padding-top: 40px;
     font-family: var(--font-destaque);
@@ -65,7 +64,6 @@ header > p {
     font-size: 1.2em;
     max-width: 600px;
     margin: auto;
-    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.19);
 
 }
 
